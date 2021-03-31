@@ -29,6 +29,7 @@ namespace Primeiro_Projeto
 
             Console.WriteLine(desconto);
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Fala ae!");
         }
     }
 }
