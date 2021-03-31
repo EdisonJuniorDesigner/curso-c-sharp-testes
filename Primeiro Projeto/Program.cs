@@ -31,6 +31,7 @@ namespace Primeiro_Projeto
             Console.WriteLine("Fala ae!");
             Console.WriteLine("Boa noite tmj!");
             Console.WriteLine("tmj!");
+            Console.WriteLine("Oloko meu");
         }
     }
 }
