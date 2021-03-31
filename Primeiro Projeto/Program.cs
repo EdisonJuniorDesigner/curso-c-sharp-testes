@@ -30,6 +30,7 @@ namespace Primeiro_Projeto
             Console.WriteLine(desconto);
             Console.WriteLine("Fala ae!");
             Console.WriteLine("Boa noite tmj!");
+            Console.WriteLine("tmj!");
         }
     }
 }
